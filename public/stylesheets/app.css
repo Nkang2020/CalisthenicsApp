@@ -1,0 +1,21 @@
+i.icon{
+	font-size:2em;
+}
+.container.main{
+	margin-top:7.0em;
+}
+#delete{
+	display:inline;
+}
+.video{
+	margin-right:2em;
+}
+.content{
+	margin-left:20px;
+}
+#delete-form {
+    display: inline;
+}
+#flashContainer{
+	margin-top:100px;
+}
